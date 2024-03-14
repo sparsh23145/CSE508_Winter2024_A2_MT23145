@@ -1,0 +1,4 @@
+top3_similarReviews.pkl
+top3_similarImages.pkl
+tfidf_scores.pkl
+normalized_extractedFeatures.npy
